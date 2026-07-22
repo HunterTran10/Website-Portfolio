@@ -2,7 +2,7 @@
 
 Personal portfolio site built with React and React Bootstrap, showcasing my projects, skills, and background as a frontend developer.
 
-🔗 **Live site:** 
+🔗 **Live site:**  [huntertran.vercel.app](https://huntertran.vercel.app)
 
 ## Built With
 - React
